@@ -1,2 +1,2 @@
 Hello there,
-This is test fr proper github integration on system
+This is test for proper github integration on system
